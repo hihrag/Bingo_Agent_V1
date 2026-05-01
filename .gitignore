@@ -1,0 +1,7 @@
+.env
+credentials.json
+*.heic
+*.jpg
+*.png
+flyers/
+.DS_Store
