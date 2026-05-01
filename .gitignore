@@ -1,7 +1,9 @@
 .env
 credentials.json
-*.heic
-*.jpg
-*.png
+inbox/*.heic
+inbox/*.jpg
+inbox/*.jpeg
+inbox/*.png
 flyers/
 .DS_Store
+processed/
