@@ -87,11 +87,12 @@ Paid by Hrag.
 
 These URLs are used by skills that generate visual content (e.g., flyer generation). Local masters live in `brand_assets/`. If a URL ever breaks, re-upload from the local masters and update this section.
 
-- **Logo URL:** https://i.imgur.com/Tke6BRy.jpeg
-- **Illustrated host avatar URL:** https://i.imgur.com/yqHJRav.png
-- **Sample flyer URLs:**
-  - https://i.imgur.com/lzQwaex.jpeg
-  - https://i.imgur.com/FeWFMIf.jpeg
+- **Logo URL:** https://raw.githubusercontent.com/hihrag/Bingo_Agent_V1/main/brand_assets/logo.jpeg
+- **Illustrated host avatar URL:** https://raw.githubusercontent.com/hihrag/Bingo_Agent_V1/main/brand_assets/avatar.png
+- **Sample flier URLs:**
+  - https://raw.githubusercontent.com/hihrag/Bingo_Agent_V1/main/brand_assets/sample1.jpeg
+  - https://raw.githubusercontent.com/hihrag/Bingo_Agent_V1/main/brand_assets/sample2.jpeg
+  - https://raw.githubusercontent.com/hihrag/Bingo_Agent_V1/main/brand_assets/sample3.jpg
 
 ## Notes for the agent
 - **Default behavior:** act first, show results. Draft, generate, propose — don't ask permission for minute details. Show me a result and I'll redirect if needed.
